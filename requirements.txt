@@ -1,4 +1,5 @@
 django
+django-environ # for env: https://github.com/joke2k/django-environ
 
 # Develop
 
