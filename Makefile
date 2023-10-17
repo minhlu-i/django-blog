@@ -9,3 +9,6 @@ migrations:
 
 shell:
 	python manage.py shell
+
+createsu:
+	python manage.py createsuperuser
